@@ -5,12 +5,14 @@
 ---
 
 ## 分类导航
+
 - [日记 Diary](diary/)
 - [数学 Math](math/)
-- [编程 Coding](coding/)
+- [编程 Code](code/)
 - [思考 Reflection](thought/)
 
 ---
 
 ## 最近更新
+
 - 敬请期待……
